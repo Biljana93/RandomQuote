@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 100px;
+    font-family: 'Gamja Flower', Pacifico;
+    background-color: rgb(93, 207, 103);
+}
+
+h1 {
+    font-size: 4em;
+    text-align: center;
+}
+
+p {
+    font-size: 2em;
+}
+
+div {
+    margin-top: 30px;
+    font-size: 2em;
+    border-style: solid;
+    border-color: black;
+    height: 200px;
+}
+
+button {
+    width: 200px;
+    height: 60px;
+    margin-left: 40%;
+    font-size: 1.5em;
+    background-color: rgb(25, 56, 56);
+    color: aquamarine;
+}
